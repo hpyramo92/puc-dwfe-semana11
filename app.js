@@ -1,0 +1,1 @@
+console.log("app.js carregado em", window.location.pathname)
