@@ -1,0 +1,21 @@
+.cardReceitaRecente {
+	background-color: rgb(240, 202, 169);
+	border: none;
+}
+ 
+.cardReceitaRecente img {
+	object-fit: cover;
+	height: 10rem;
+}
+ 
+.botao-do-cartao {
+	background-color: blue;
+	color: #eee;
+	font-weight: bold;
+	border: none;
+}
+ 
+.botao-do-cartao:hover {
+	background-color: #1818b0;
+	color: #fff;
+}

@@ -1,0 +1,15 @@
+.cardBusca {
+	background-color: #ccc;
+}
+
+.botaoCardBusca {
+	background-color: blue;
+	color: #eee;
+	font-weight: bold;
+	border: none;
+}
+
+.botaoCardBusca:hover {
+	background-color: #1818b0;
+	color: #fff;
+}

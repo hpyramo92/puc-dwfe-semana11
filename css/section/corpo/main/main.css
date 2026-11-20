@@ -1,0 +1,11 @@
+@import url("./cardBusca.css");
+@import url("./cozinhasEmDestaque.css");
+@import url("./receitasRecentes.css");
+
+main {
+	/* border: .5rem solid green; */
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	padding: .5rem;
+}

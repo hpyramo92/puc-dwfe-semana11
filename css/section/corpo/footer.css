@@ -1,0 +1,14 @@
+.rodapePrincipal {
+	background-color: rgb(240, 202, 169);
+	font-size: .85rem;
+}
+ 
+.rodapePrincipal a {
+	text-decoration: none;
+	color: #141414d3;
+}
+ 
+.iconeRedesSociais {
+	font-size: 1.5rem;
+}
+ 

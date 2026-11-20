@@ -1,0 +1,21 @@
+.cabecalhoPrincipal,
+.cabecalhoPrincipal .navbar {
+	background-color: #f0caa9;
+}
+
+.cabecalhoPrincipal .logo-icone {
+	font-size: 1.8rem;
+}
+
+.cabecalhoPrincipal .titulo {
+	font-weight: bold;
+	color: #222;
+}
+
+.cabecalhoPrincipal .nav-link {
+	color: #5e5e5e;
+}
+
+.cabecalhoPrincipal .nav-link:hover {
+	color: #000;
+}

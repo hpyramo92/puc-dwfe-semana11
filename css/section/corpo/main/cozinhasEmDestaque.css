@@ -1,0 +1,10 @@
+.cardCozinhaEmDestaque {
+	background-color: rgb(240, 202, 169);
+	border: none;
+}
+ 
+.cardCozinhaEmDestaque img {
+	object-fit: cover;
+	height: 10rem;
+}
+ 
